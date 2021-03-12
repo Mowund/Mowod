@@ -1,0 +1,10 @@
+{
+	"homepage": "http://mowund.com",
+	"promos": {
+		"1.16.5-latest": "t1.0.0ab",
+		"1.16.5-recommended": "t1.0.0ab"
+	},
+	"1.16.5": {
+		"t1.0.0ab": "Teste"
+	}
+}
