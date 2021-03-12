@@ -5,6 +5,9 @@
 		"1.16.5-recommended": "t1.0.0ab"
 	},
 	"1.16.5": {
-		"t1.0.0ab": "Teste"
+		"t1.0.0ab": "Teste 4",
+		"b1.0.0aa": "Teste 3",
+		"b1.0.0": "Teste 2",
+		"1.0.0-dev": "Teste 1"
 	}
 }
