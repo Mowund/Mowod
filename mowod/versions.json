@@ -5,7 +5,8 @@
         "1.16.5-recommended": "1.0.0"
     },
     "1.16.5": {
-        "1.0.0": "    + Mod released, all old and future mod versions can be found at https://mods.mowund.com.\n\n        • When a new mod version is released, it will be shown in the mods list.\n\n+ Added brown wolf.\n\n        • Extremely rare, found only in savanna biomes.\n        • Stronger than normal wolves.\n\n    ∗ Improved the mod code and removed unused commands.",
+        "NONE": "N/A",
+        "1.0.0": "    + Mod released, all old and future mod versions can be found at https://mods.mowund.com.\n\n        • When a new mod version releases, it will be shown in the mods list.\n\n    + Added brown wolf.\n\n        • Extremely rare, found only in savanna biomes.\n        • Stronger than normal wolves.\n\n    ∗ Improved the mod code and removed unused commands.",
         "b1.0.0aa": "N/A",
         "b1.0.0": "N/A",
         "1.0.0-dev": "N/A"
