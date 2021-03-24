@@ -5,7 +5,7 @@
         "1.16.5-recommended": "1.0.2"
     },
     "1.16.5": {
-        "1.0.2": "    ∗ Mowited netherite armor set now uses mowited netherite material again.\n\n    ∗ Mowita blocks are now a bit more slippery and no longer speedy.\n\n    ∗ Now requires Forge 36.1.\n\n        • Updated to official 1.16.5 mappings."
+        "1.0.2": "    ∗ Mowited netherite armor set now uses mowited netherite material again.\n\n    ∗ Mowita blocks are now a bit more slippery and no longer speedy.\n\n    ∗ Now requires Forge 36.1.\n\n        • Updated to official 1.16.5 mappings.",
         "1.0.1": "    ∗ Brown wolves now randomly emit heart particles. They also gets a bit more darker when wet.\n\n    ∗ Brown wolf spawn eggs now properly work with dispensers, spawners and pick item.",
         "1.0.0": "    + Mod released, all old and future mod versions can be found at https://mods.mowund.com.\n\n        • When a new mod version releases, it will be shown in the mods list.\n\n    + Added brown wolf.\n\n        • Extremely rare, found only in savanna biomes.\n        • Stronger than normal wolves.\n\n    ∗ Improved the mod code and removed unused commands.",
         "b1.0.0aa": "N/A",
