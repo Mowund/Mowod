@@ -1,10 +1,11 @@
 {
     "homepage": "https://mods.mowund.com/",
     "promos": {
-        "1.16.5-latest": "1.1.7",
-        "1.16.5-recommended": "1.1.7"
+        "1.16.5-latest": "1.1.8",
+        "1.16.5-recommended": "1.1.8"
     },
     "1.16.5": {
+        "1.1.8": "    ∗ Dimstone texture is now randomly flipped.\n\n    ∗ All texture and sound files has been compressed.\n\n    ∗ Renamed code using obfuscated names.",
         "1.1.7": "    + Added 4 new advancements:\n\n        • Pinky Ingot: Smelt a mowita ingot.\n\n        • Endified: Endify a mowita ingot using end stone shards.\n\n        • Mowited: Use an endified mowita ingot to upgrade any diamond or netherite armor or tool.\n\n        • Fully Mowited: Get all mowited netherite items.\n\n            • Gives 125 exp.\n\n    + Added chiseled dimstone.\n\n    + Added translations for pt-br.\n\n    ∗ Brown wolves are now required for the \"Two by Two\" advancement.\n\n    ∗ Renamed \"polished dimstone bricks\" to \"dimstone bricks\".",
         "1.1.6": "    ∗ Slightly changed dimstone blocks textures.\n\n    ∗ Stonecutting dimstone to polished dimstone brick blocks now requires cobbled dimstone instead.",
         "1.1.5": "    + Added deepslate mowita ore.\n\n        • Currently unobtainable in survival until 1.17 releases.\n\n    + Added new sounds for raw mowita block and updated rufous wood sounds.\n\n    ∗ Changed raw mowita block, mowita block and mowita ore hardness and blast resistance.\n\n    ∗ Rufous log may now generate as part of bonus chest loot.",
